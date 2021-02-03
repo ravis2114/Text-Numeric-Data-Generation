@@ -11,5 +11,6 @@ License
 MIT
 
 
+
 [link1]: <https://github.com/ravis2114/Text-Numeric-Data-Generation/blob/master/Stock_Forecasting%20(LSTM).ipynb>
 [link2]: <https://github.com/ravis2114/Text-Numeric-Data-Generation/blob/master/app.csv>
